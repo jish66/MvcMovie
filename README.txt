@@ -118,6 +118,11 @@ Create a new class named SeedData in the Models folder and added the code from t
 After adding the code I received an error An unhandled exception occurred while processing the request.
 Updated the databases and the Website was loading fine.
 
+0303
+
+Created a new Github account and pushed the current project to Github Repository.
+
+
 
 
 
